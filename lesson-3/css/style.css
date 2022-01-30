@@ -1,0 +1,27 @@
+.main ul{
+    color: red;
+}
+p{
+    color: blue;
+}
+span{
+    color: chocolate;
+}
+.text{
+    color: cyan;
+}
+.header a{
+    color: darkgreen;
+}
+a{
+    color: darkslateblue;
+}
+footer{
+    color: darkslategrey;
+}
+h1,h2,h3{
+    color: deeppink;
+}
+.text-ul li{
+    color: aqua;
+}
